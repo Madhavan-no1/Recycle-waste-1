@@ -1,0 +1,10 @@
+streamlit
+opencv-python-headless
+numpy
+joblib
+Pillow
+google-generativeai
+googletrans==4.0.0-rc1  # Optional, for translation features
+gTTS  # Optional, for text-to-speech features
+requests
+scikit-learn
